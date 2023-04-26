@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(236, 239, 240);
+}
+
+
+.form-control {
+    resize: none;
+}
+
+.form-group {
+    padding: 16px 0;
+}
+
+.btn-success {
+    padding: 16px 0;
+}
